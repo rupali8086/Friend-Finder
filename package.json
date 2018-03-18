@@ -1,0 +1,26 @@
+{
+  "name": "Friend-Finder",
+  "version": "1.0.0",
+  "description": "using Express js",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupali8086/Friend-Finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupali8086/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/rupali8086/Friend-Finder#readme"
+}
