@@ -1,7 +1,7 @@
 var friends = [
 	{
-    	"name": "Johnny Knoxville",
-    	"photo": "http://www.canadiandukes.com/movie05/johnnyluke.jpg",
+    	"name": "Mark Ruffalo ",
+    	"photo": "https://www.thewrap.com/wp-content/uploads/2017/08/mark-ruffalo.jpg",
     	"scores": [
 	        3,
 	        4,
@@ -16,8 +16,8 @@ var friends = [
 	    ]
 	},
 	{
-		"name": "Lindsay Lohan",
-		"photo": "http://www.evilbeetgossip.com/wp-content/uploads/2015/01/lindsay-lohan2.jpg",
+		"name": "Chris Pratt",
+		"photo": "https://www.thewrap.com/wp-content/uploads/2017/05/peter-quill-chris-pratt-star-lord-guardians-of-the-galaxy-vol-2.jpg",
 		"scores": [
 			4,
 			2,
@@ -32,8 +32,8 @@ var friends = [
 		]
 	},
 	{
-		"name": "Jeff Goldblum",
-		"photo": "http://cdn1.actionmovieaddict.com/sites/movieroomreviews.com/files/imagecache/story_header/images/jurass-park-4-world-jeff-goldblum.jpg",
+		"name": "Tom Cruise",
+		"photo": "https://www.thewrap.com/wp-content/uploads/2016/08/tom.jpg",
 		"scores": [
 			3,
 			4,
@@ -48,8 +48,8 @@ var friends = [
 		]
 	},
 	{
-		"name": "Joan Rivers",
-		"photo": "http://www.advocate.com/sites/advocate.com/files/2014/05/22/JoanRiversMain.jpg",
+		"name": "Angelina Jolie",
+		"photo": "https://ia.media-imdb.com/images/M/MV5BODg3MzYwMjE4N15BMl5BanBnXkFtZTcwMjU5NzAzNw@@._V1_UY209_CR15,0,140,209_AL_.jpg",
 		"scores": [
 			5,
 			3,
@@ -64,8 +64,8 @@ var friends = [
 		]
 	},
 	{
-		"name": "Nicholas Cage",
-		"photo": "https://20thcenturyflicks.files.wordpress.com/2015/07/con-air-nicolas-cage-2_400.jpg",
+		"name": "John Cena",
+		"photo": "http://www.wwe.com/f/styles/talent_champion_xl/public/wysiwyg/image/2014/10/RAW_08112014hmm_0709.jpg",
 		"scores": [
 			2,
 			5,
@@ -80,8 +80,8 @@ var friends = [
 		]
 	},
 	{
-		"name": "Kathy Griffin",
-		"photo": "http://static.thefrisky.com/uploads/2013/01/03/Kathy-Griffin-010313-400x300.jpg",
+		"name": "Adam Sandler",
+		"photo": "https://ia.media-imdb.com/images/M/MV5BMjQyNzM2MjM1Ml5BMl5BanBnXkFtZTcwMDE5NjI3Mg@@._V1_UY317_CR7,0,214,317_AL_.jpg",
 		"scores": [
 			4,
 			2,
@@ -96,8 +96,8 @@ var friends = [
 		]
 	},
 	{
-		"name": "Danny McBride",
-		"photo": "http://cdn2.holytaco.com/wp-content/uploads/2012/02/kenny_powers_wig.jpg",
+		"name": "Monica Bellucci ",
+		"photo": "https://www.thewrap.com/wp-content/uploads/2016/06/GettyImages-494678332-768x512.jpg",
 		"scores": [
 			2,
 			3,
@@ -144,8 +144,8 @@ var friends = [
 		]
 	},
 	{
-		"name": "Dolly Parton",
-		"photo": "http://dollypartonfans.co.uk/wordpress/wp-content/uploads/2013/02/Dolly_Parton400x300.jpg",
+		"name": "Donald Trump",
+		"photo": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg",
 		"scores": [
 			5,
 			3,
