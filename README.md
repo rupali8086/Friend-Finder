@@ -6,15 +6,25 @@
 Structure :
 
 ├── app
+
 |  ├── data
+
 |  |  └── friends.js
+
 |  ├── public
+
 |  |  ├── home.html
+
 |  |  └── survey.html
+
 |  └── routing
+
 |     ├── apiRoutes.js
+
 |     └── htmlRoutes.js
+
 ├── package.json
+
 └── server.js
 
  ** The basic npm packages used in class:  **
