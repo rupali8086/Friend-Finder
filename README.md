@@ -4,7 +4,7 @@
  Deploy on  : Heroku
 
 Structure :
-
+```
 ├── app
 
 |  ├── data
@@ -26,6 +26,7 @@ Structure :
 ├── package.json
 
 └── server.js
+```
 
  ** The basic npm packages used in class:  **
  express, body-parser and path
